@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d1ae5b0-3324-4798-b6f3-c70b6b3aa4b8": {
+      "ProjectGuid": "4d1ae5b0-3324-4798-b6f3-c70b6b3aa4b8",
+      "DisplayName": "MessageClient",
+      "ColorIndex": 0
+    },
+    "26f871ba-570a-4db0-9a14-3657e3af2eca": {
+      "ProjectGuid": "26f871ba-570a-4db0-9a14-3657e3af2eca",
+      "DisplayName": "MessageCommunicationLib",
+      "ColorIndex": 1
+    },
+    "f3664a99-ee13-496f-bc02-1cbbe6149e8a": {
+      "ProjectGuid": "f3664a99-ee13-496f-bc02-1cbbe6149e8a",
+      "DisplayName": "MessageServer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4c2cfd45-2315-4978-9521-860cba6fb87a": {
+      "ProjectGuid": "4c2cfd45-2315-4978-9521-860cba6fb87a",
+      "DisplayName": "MyLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

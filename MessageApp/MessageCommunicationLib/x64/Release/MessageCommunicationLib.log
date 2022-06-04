@@ -1,0 +1,14 @@
+﻿  stdafx.c
+  cchashtable.c
+  ccitem.c
+  cclinkedlist.c
+  client_communication_api.c
+  common.c
+  communication_api.c
+  communication_data.c
+  communication_logging.c
+  connection.c
+  custom_client_com_api.c
+  custom_server_com_api.c
+  server_communication_api.c
+  MessageCommunicationLib.vcxproj -> D:\cerc de c\Proiect2-2022\MessageApp\bin\x64\Release\MessageCommunicationLib.lib
