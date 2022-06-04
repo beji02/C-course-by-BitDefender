@@ -6,6 +6,7 @@
 
 **First project**'s task was implementing and testing of some data structures in C (hash-table, heap, linked-list, stack, tree, vector)
 
+
 **Part II: WIN32 API and multithreading programming**
 - learned about unicode and secure string functions
 - kernel objects
