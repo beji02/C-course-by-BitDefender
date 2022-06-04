@@ -11,6 +11,6 @@
 - kernel objects
 - processes, threads, synchronization, concurrency
 
-**Second project**'s task was to create a client-server system that will function as a messaging application (using WIN32 API)
+**Second project**'s task was to create a client-server system that will function as a messaging application (using WIN32 API).
 For this purpose I've developed two console-applications **MessageClient.exe** and **MessageServer.exe** that use **MessageCommunicationLib.lib** library provided by the BitDefender team.
 
